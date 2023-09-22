@@ -1,7 +1,8 @@
 ---
 Date: 202205270837
-Title: "CLASSLESS"
-Aliases:
+Title: CLASSLESS
+aliases: 
+author:
 ---
 # CLASSLESS: A Ruleset for HEROES of All Stripes
 ### TRAIT
