@@ -1,6 +1,6 @@
 ---
 Date: 202205271002
-Title: ΔTEMPLATE - LEARNING ON THE JOB
+Title: TEMPLATE - LEARNING ON THE JOB
 aliases: 
 tags:
   - mosaic
