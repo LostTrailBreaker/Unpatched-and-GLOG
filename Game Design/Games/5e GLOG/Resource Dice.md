@@ -1,8 +1,10 @@
 ---
 Date: 202206042243
-Title: 'Supply Dice'
-Aliases:
-Tags:
+Title: Supply Dice
+aliases: 
+tags:
+  - GLOG
+  - Resource
 ---
 
 # Why Resource Dice?
