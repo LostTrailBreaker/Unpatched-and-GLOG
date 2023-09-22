@@ -1,7 +1,9 @@
 ---
 Date: 202205270908
-Title: "CERTAINTY"
-Aliases:
+Title: CERTAINTY
+aliases: 
+tags:
+  - engine
 ---
 Originally from Bastionland
 
