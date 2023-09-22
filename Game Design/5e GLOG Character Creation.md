@@ -1,8 +1,9 @@
 ---
 Date: 202206042250
-Title: '5e GLOG Character Creation'
-Aliases:
-Tags:
+Title: 5e GLOG Character Creation
+aliases: 
+tags:
+  - GLOG
 ---
 # Design goals
 1. Roll randomly to generate your character as much as possible
