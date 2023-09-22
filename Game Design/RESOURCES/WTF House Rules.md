@@ -1,8 +1,9 @@
 ---
 Date: 202206042221
-Title: "WTF House Rules"
-Aliases:
-Tags:
+Title: WTF House Rules
+aliases: 
+tags:
+  - Resource
 ---
 # Info
 Source: [WTF House Rules](http://wizardthieffighter.blogspot.com/p/wtf-house-rules.html)
