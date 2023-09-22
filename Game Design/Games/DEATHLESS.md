@@ -1,8 +1,9 @@
 ---
 Date: 202205270917
-Title: "DEATHLESS"
-Aliases:
-Tags:
+Title: DEATHLESS
+author: eweix
+aliases: 
+tags:
 ---
 
 # MOSAICs
