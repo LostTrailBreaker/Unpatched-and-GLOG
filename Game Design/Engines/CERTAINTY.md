@@ -5,7 +5,7 @@ aliases:
 tags:
   - engine
 ---
-Originally from Bastionland
+Originally from [Bastionland](https://www.bastionland.com/)
 
 I often find myself torn between:
 -   A love of rolling dice to introduce an unexpected element into the game.
