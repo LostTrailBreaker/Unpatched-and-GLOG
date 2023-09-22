@@ -1,10 +1,9 @@
 ---
 created: 2023-49-17 22:49
-aliases:
-tags: 🌱review
+aliases: 
+tags: []
 ANKI TAGS:
 ---
-Keywords::
 
 
 (First sentence a short phrase of approximate translation, second sentence a 1-2 sentence possible use. Keep it short and evocative)
