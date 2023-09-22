@@ -1,5 +1,4 @@
 ---
-Date: 
 Title: 
 author: 
 aliases: 
