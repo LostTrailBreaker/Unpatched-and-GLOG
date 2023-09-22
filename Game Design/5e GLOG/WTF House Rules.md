@@ -4,6 +4,7 @@ Title: WTF House Rules
 aliases: 
 tags:
   - Resource
+  - GLOG
 ---
 # Info
 Source: [WTF House Rules](http://wizardthieffighter.blogspot.com/p/wtf-house-rules.html)
