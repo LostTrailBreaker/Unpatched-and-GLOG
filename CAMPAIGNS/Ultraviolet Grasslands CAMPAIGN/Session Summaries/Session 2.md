@@ -1,12 +1,10 @@
 ---
-Date: 
+Date: 2022-06-07
 Title: 
 author: 
 aliases: 
 tags:
 ---
-
-Date:20220607
 
 ## "Unpatched" Session 2 Notes
 
