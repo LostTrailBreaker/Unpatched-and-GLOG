@@ -13,7 +13,7 @@ Caleb: a wayward thief in heavy debt
 Evan: literally Karen
 
 # Actual Play Report
-This game was based on a modified version of Luka Rejec's Ultraviolet Grasslands and the Black City.
+This game was based on a modified version of Luka Rejec's [Ultraviolet Grasslands and the Black City](https://www.drivethrurpg.com/product/302021/Ultraviolet-Grasslands-and-the-Black-City).
 
 The group began their journey at the Last Good House on the edge of the Violet City, contemplating the track into the grasslands. Abner tried repeatedly to eat his party members, though to no avail. After getting a stiff drink and pondering their options, Tess led the crew to the College of Memory, where they had studied magic.
 
