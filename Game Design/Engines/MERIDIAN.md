@@ -1,7 +1,9 @@
 ---
 Date: 202205270844
-Title: "MERIDIAN"
-Aliases:
+Title: MERIDIAN
+aliases: 
+tags:
+  - engine
 ---
 # Meridian Engine
 This ruleset was created for a strange, weird, completely off-the-walls world. It ignores and unapologetically breaks some precedents set by typical D&D-like games. The main goal of this is to create a framework that is:
