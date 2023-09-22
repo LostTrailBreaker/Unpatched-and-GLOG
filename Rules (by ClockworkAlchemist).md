@@ -3,11 +3,7 @@ Date: 2022-06-01
 Title: UNPATCHED
 aliases: 
 tags:
----
-
-
-Aliases:
-Tags: Game
+  - Game
 ---
 
 # Inspiration/Resources
