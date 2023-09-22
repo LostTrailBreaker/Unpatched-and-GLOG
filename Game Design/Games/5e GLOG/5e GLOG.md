@@ -16,4 +16,4 @@ Because 5e, for all its faults, is still pretty cool. There's some neat mechanic
 - [[Resource Dice]]
 
 %% End Waypoint %%
-- [[05 Resources/Game Design/Games/5e GLOG/Resource Dice]]
+- [[05 Resources/Game Design/Games/5e GLOG/Resource Dice|Resource Dice]]
