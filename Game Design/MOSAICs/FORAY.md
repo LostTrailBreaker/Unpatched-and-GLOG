@@ -5,7 +5,7 @@ aliases:
 tags:
   - mosaic
 ---
-Draws inspiration from [[SAFETY IN NUMBERS]] and [[05 Resources/Game Design/MOSAICs/TRAVEL]], combining the two so they work more smoothly together.
+Draws inspiration from [[SAFETY IN NUMBERS]] and [[TRAVEL]], combining the two so they work more smoothly together.
 
 It's dangerous to go alone: take others with you. Safety lies in numbers.
 
