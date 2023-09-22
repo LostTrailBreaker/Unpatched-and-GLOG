@@ -1,7 +1,7 @@
 ---
 Date: 202206052224
-Title: "Welcome to the UVG"
-Aliases:
+Title: Welcome to the UVG
+aliases:
 ---
 # Dramatis Personae
 Abner: some weird blob thing (aspiring Lamarckian) and warlock of Kaedrick the Broken
