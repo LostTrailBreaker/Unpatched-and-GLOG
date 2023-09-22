@@ -1,9 +1,9 @@
 ---
 Date: 202206052224
 Title: Welcome to the UVG
+author: ClockworkAlchemist
 aliases: 
-tags: 
-author:
+tags:
 ---
 # Dramatis Personae
 Abner: some weird blob thing (aspiring Lamarckian) and warlock of Kaedrick the Broken
