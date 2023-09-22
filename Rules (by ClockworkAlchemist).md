@@ -5,7 +5,6 @@ author: eweix
 aliases: 
 tags:
   - Game
-  - Resource
 ---
 
 # Inspiration/Resources
