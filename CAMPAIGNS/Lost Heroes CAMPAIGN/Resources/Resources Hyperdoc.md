@@ -4,4 +4,5 @@ Title: Lost Heroes Resources
 Author: cmagill
 aliases: 
 tags:
+  - plans
 ---
