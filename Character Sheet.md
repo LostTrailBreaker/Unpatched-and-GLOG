@@ -1,8 +1,10 @@
 ---
 Date: 202305160945
-Title: "UNPATCHED Character Sheet"
-Aliases:
-Tags: Game, Resource
+Title: UNPATCHED Character Sheet (OLD)
+aliases: 
+tags:
+  - Game
+  - Resource
 ---
 [DocX](https://docs.google.com/document/d/1IFYk_5UhAIBUh382kpiO2hOyrcsOcV41/edit#)
 
