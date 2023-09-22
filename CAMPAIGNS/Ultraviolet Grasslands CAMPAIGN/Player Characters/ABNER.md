@@ -5,4 +5,4 @@ author:
 aliases: 
 tags:
 ---
-{text}
+{{text}}
