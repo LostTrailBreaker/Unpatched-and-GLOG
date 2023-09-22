@@ -12,8 +12,4 @@ Because 5e, for all its faults, is still pretty cool. There's some neat mechanic
 - [[WTF House Rules]]
 
 # THE GLOG KEBAB
-%% Begin Waypoint %%
-- [[Resource Dice]]
-
-%% End Waypoint %%
-- [[05 Resources/Game Design/Games/5e GLOG/Resource Dice]]
+ [[Resource Dice]]
