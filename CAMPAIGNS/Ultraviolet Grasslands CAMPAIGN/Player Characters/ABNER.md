@@ -1,6 +1,6 @@
 ---
-Title: 
-author: 
+Title: Abner
+author: tmagill
 aliases: 
 tags:
 ---
