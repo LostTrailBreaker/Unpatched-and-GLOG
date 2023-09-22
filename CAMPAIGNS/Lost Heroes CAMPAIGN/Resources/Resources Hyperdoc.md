@@ -1,7 +1,7 @@
 ---
 Date: 2023-09-22
-Title: 
-Author: 
+Title: Lost Heroes Resources
+Author: cmagill
 aliases: 
 tags:
 ---
