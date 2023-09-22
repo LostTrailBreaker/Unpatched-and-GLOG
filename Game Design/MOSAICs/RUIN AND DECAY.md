@@ -1,7 +1,9 @@
 ---
 Date: 202205270844
-Title: "RUIN AND DECAY"
-Aliases:
+Title: RUIN AND DECAY
+aliases: 
+tags:
+  - mosaic
 ---
 # RUIN & DECAY
 ## RUIN Has Come

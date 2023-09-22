@@ -1,7 +1,9 @@
 ---
 Date: 202205270842
-Title: "STRESS AND PANIC"
-Aliases:
+Title: STRESS AND PANIC
+aliases: 
+tags:
+  - mosaic
 ---
 # d6 STRESS and PANIC
 Sanity and STRESS are fun mechanics. I like them. They promote growth of characters and provide another way for your HERO to be taken out of the action.

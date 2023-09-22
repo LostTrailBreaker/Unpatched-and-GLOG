@@ -1,7 +1,9 @@
 ---
 Date: 202205270834
-Title: "INVENTORY"
-Aliases:
+Title: INVENTORY
+aliases: 
+tags:
+  - mosaic
 ---
 # INVENTORY
 Inventory lists are dumb. Inventory management systems and mini-games have their place. That place is not here.

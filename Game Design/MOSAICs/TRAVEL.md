@@ -1,7 +1,9 @@
 ---
 Date: 202205270826
-Title: "TRAVEL"
-Aliases:
+Title: TRAVEL
+aliases: 
+tags:
+  - mosaic
 ---
 # TRAVEL - Referee-facing Procedure
 

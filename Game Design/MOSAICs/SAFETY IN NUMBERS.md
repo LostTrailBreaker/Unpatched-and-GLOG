@@ -1,7 +1,9 @@
 ---
 Date: 202205270936
-Title: "SAFETY IN NUMBERS"
-Aliases:
+Title: SAFETY IN NUMBERS
+aliases: 
+tags:
+  - mosaic
 ---
 It's dangerous to go alone: take others with you. Safety lies in numbers.
 
