@@ -4,6 +4,7 @@ Title: 5e GLOG Character Creation
 aliases: 
 tags:
   - GLOG
+  - Resource
 ---
 # Design goals
 1. Roll randomly to generate your character as much as possible
