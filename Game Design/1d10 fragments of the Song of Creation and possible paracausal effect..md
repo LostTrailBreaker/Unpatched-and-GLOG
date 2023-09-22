@@ -1,9 +1,9 @@
 ---
-created: 2023-49-17 22:49
+author: eweix
 aliases: 
 tags:
+  - Resource
 ---
-
 
 
 (First sentence a short phrase of approximate translation, second sentence a 1-2 sentence possible use. Keep it short and evocative)
