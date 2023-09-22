@@ -1,6 +1,10 @@
 ---
 Date: 2022-06-05
 Title: UNPATCHED Session 1 Summary
+author: tmagill
+aliases: 
+tags:
+  - recap
 ---
 
 ## “Unpatched” Session 1 Summary
