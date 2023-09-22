@@ -1,7 +1,9 @@
 ---
 Date: 202205270948
-Title: "MIGHT 1-2-3"
-Aliases:
+Title: MIGHT 1-2-3
+aliases: 
+tags:
+  - mosaic
 ---
 # A MIGHT SCALE
 Damage, armor, healing. All of these operate on some nonvariable scale. Let's quantify that a little more concretely, shall we?

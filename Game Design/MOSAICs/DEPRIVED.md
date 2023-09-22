@@ -1,7 +1,9 @@
 ---
 Date: 202205270832
-Title: "DEPRIVED"
-Aliases:
+Title: DEPRIVED
+aliases: 
+tags:
+  - mosaic
 ---
 # Deprived - Exhaustion in HAVEN
 Anyone who is DEPRIVED of a crucial need (food, water, warmth, etc.) cannot benefit from REST. Anything that would normally recover through rest does not do so, though most people still need rest to live.

@@ -1,7 +1,9 @@
 ---
 Date: 202205270942
-Title: "MALFEASANCE"
-Aliases:
+Title: MALFEASANCE
+aliases: 
+tags:
+  - mosaic
 ---
 Magic is corruption. This is known. Magic was always dangerous, even in the bright eras of the long ago.
 

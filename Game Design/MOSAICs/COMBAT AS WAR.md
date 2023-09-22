@@ -3,6 +3,7 @@ Date: 202205270845
 Title: COMBAT AS WAR
 aliases: 
 tags:
+  - mosaic
 ---
 # Combat & Confrontation
 ## Roll Every Time

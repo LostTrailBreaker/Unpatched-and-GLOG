@@ -1,7 +1,9 @@
 ---
 Date: 202205270946
-Title: "OF LORE AND LEGENDS"
-Aliases:
+Title: OF LORE AND LEGENDS
+aliases: 
+tags:
+  - mosaic
 ---
 A game is an exchange of questions and answers. I now present a hackneyed way to judge—broadly—how to handle some of these exchanges:
 

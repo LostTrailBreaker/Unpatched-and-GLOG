@@ -1,7 +1,9 @@
 ---
 Date: 202205270844
-Title: "FLESH AND RUIN"
-Aliases:
+Title: FLESH AND RUIN
+aliases: 
+tags:
+  - mosaic
 ---
 # Flesh & Ruin: Rules for Getting Hurt
 Fighting is a well-known part of adventuring. There are all sorts of cool things that happen in combat. This ruleset is not about those. I'll try to make the cool rules later. No, this ruleset is about all of the very UNCOOL things that happen to Heroes. Like getting hurt.

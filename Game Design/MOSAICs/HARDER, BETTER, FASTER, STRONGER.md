@@ -1,7 +1,9 @@
 ---
 Date: 202205270947
-Title: "HARDER, BETTER, FASTER, STRONGER"
-Aliases:
+Title: HARDER, BETTER, FASTER, STRONGER
+aliases: 
+tags:
+  - mosaic
 ---
 Nothing is improved without sacrifice. With every modification, there emerges a drawback.
 

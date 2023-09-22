@@ -1,7 +1,9 @@
 ---
 Date: 202205270940
-Title: "FORAY"
-Aliases:
+Title: FORAY
+aliases: 
+tags:
+  - mosaic
 ---
 Draws inspiration from [[SAFETY IN NUMBERS]] and [[05 Resources/Game Design/MOSAICs/TRAVEL]], combining the two so they work more smoothly together.
 

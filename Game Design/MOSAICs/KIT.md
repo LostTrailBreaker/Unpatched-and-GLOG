@@ -1,7 +1,9 @@
 ---
 Date: 202205270850
-Title: "KIT"
-Aliases:
+Title: KIT
+aliases: 
+tags:
+  - mosaic
 ---
 # KIT: A Ruleset to Kill Inane Transactions
 Allow me to preface this by saying that I have nothing against shopping; frequently, I find myself having a lot of fun shopping and browsing. I have everything against imaginary shopping because it bogs down my game and eats up time I (and likely my friends) would rather spend exploring the world.
