@@ -1,8 +1,10 @@
 ---
 Date: 202206042049
-Title: "GLOG Spellcasting"
-Aliases:
-Tags:
+Title: GLOG Spellcasting
+aliases: 
+tags:
+  - GLOG
+  - Resource
 ---
 # Info
 Source: [GLOG Spellcasting](https://coinsandscrolls.blogspot.com/2017/07/osr-condensed-spellcasting-rules.html)

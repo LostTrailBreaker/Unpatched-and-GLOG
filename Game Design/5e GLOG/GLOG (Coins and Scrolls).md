@@ -1,8 +1,10 @@
 ---
 Date: 202206042047
-Title: "GLOG (Coins and Scrolls)"
-Aliases:
-Tags:
+Title: GLOG (Coins and Scrolls)
+aliases: 
+tags:
+  - GLOG
+  - Resource
 ---
 # OSR: The Grand GLOG Playtesting Review
 
