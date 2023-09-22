@@ -2,7 +2,7 @@
 Date: 202205270837
 Title: CLASSLESS
 aliases: 
-author:
+tags:
 ---
 # CLASSLESS: A Ruleset for HEROES of All Stripes
 ### TRAIT
