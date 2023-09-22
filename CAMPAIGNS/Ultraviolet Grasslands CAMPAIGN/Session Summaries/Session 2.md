@@ -1,12 +1,13 @@
 ---
 Date: 2022-06-07
-Title: 
-author: 
+Title: UNPATCHED Session 2 Summary
+author: tmagill
 aliases: 
 tags:
+  - recap
 ---
 
-## "Unpatched" Session 2 Notes
+## "Unpatched" Session 2 Summary
 
 Characters:
 -ABNER
