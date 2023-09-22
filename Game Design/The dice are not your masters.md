@@ -7,7 +7,6 @@ sr-due: 2024-03-21
 sr-interval: 365
 sr-ease: 270
 ---
-Keywords:: [[Game Design]]
 
 - The dice are not your masters.
 - Only roll or call for a roll if both success and failure are interesting.
