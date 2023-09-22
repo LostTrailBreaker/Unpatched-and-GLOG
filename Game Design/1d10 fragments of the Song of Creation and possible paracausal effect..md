@@ -1,8 +1,8 @@
 ---
 created: 2023-49-17 22:49
 aliases: 
-tags: []
-ANKI TAGS:
+tags:
+  - Resource
 ---
 
 
