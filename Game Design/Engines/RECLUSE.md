@@ -5,8 +5,7 @@ aliases:
 tags:
   - engine
 ---
-by Graven Utterance
-[[Recluse v1.0.pdf]]
+[[Recluse v1.0.pdf]] by Graven Utterance
 # What is this?
 It's a simple question-answering tool you can use to tell stories with unexpected twists, or as a drop in replacement for the oracle in your favorite GM emulator (I like so1um and the CRGE). Its two defining features are:
 ## Quick interpretation
