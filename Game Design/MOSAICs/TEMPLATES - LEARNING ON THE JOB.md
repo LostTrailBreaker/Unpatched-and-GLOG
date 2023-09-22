@@ -1,7 +1,9 @@
 ---
 Date: 202205271002
-Title: "ΔTEMPLATE - LEARNING ON THE JOB"
-Aliases:
+Title: ΔTEMPLATE - LEARNING ON THE JOB
+aliases: 
+tags:
+  - mosaic
 ---
 Templates are gained diagetically through the completion of objectives or odd conditions. Each is equivalent to a title, GLOG template, or similar. Each template gives an interesting tool to the players.
 
