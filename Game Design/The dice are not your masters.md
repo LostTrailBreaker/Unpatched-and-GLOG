@@ -1,7 +1,7 @@
 ---
 created: 2022-11-04 19:33
-aliases:
-tags: 🌲evergreen 🌱review 
+aliases: 
+tags: []
 sr-due: 2024-03-21
 sr-interval: 365
 sr-ease: 270
