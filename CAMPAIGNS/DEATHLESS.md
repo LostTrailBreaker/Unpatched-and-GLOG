@@ -4,6 +4,7 @@ Title: DEATHLESS
 author: eweix
 aliases: 
 tags:
+  - Game
 ---
 
 # MOSAICs
