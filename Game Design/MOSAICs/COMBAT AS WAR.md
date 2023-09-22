@@ -1,7 +1,8 @@
 ---
 Date: 202205270845
-Title: "COMBAT AS WAR"
-Aliases:
+Title: COMBAT AS WAR
+aliases: 
+tags:
 ---
 # Combat & Confrontation
 ## Roll Every Time

@@ -1,7 +1,9 @@
 ---
 Date: 202205270831
-Title: "ALARM"
-Aliases:
+Title: ALARM
+aliases: 
+tags:
+  - mosaic
 ---
 # ALARM - Referee-facing Procedure
 ### A word on timekeeping
