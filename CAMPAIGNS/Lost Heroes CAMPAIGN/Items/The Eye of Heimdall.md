@@ -1,5 +1,6 @@
 ---
 Title: The Eye of Heimdall
+author: tmagill
 ---
 
 ![[Pasted image 20230517184352.png]]
