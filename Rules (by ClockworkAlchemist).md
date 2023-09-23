@@ -18,7 +18,7 @@ tags:
 	- [[VISUAL INVENTORY]]
 	- [[COMBAT AS WAR]] - specifically wounds and healing
 	- [[RUIN AND DECAY]]
-	- [[MALFEASANCE]]
+	- [[MALFEASANCE]] - used with [[GLOG Spellcasting]]
 	- [[STRESS AND PANIC]]
 
 # UNPATCHED CORE
