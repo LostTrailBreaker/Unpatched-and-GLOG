@@ -15,4 +15,4 @@ Things can be repaired, too. Until it's completely broken, one can seek out serv
 
 # Cal's Modified Version of Depletion
 
-with items that you have a lot of (like arrows, throwing knives, that kind of stuff), roll every time you use it. If the result of the roll is at or under 
+with items that you have a lot of (like arrows, throwing knives, that kind of stuff), roll every time you use it. If the result of the roll is at or under the 
