@@ -18,6 +18,6 @@ When channeling magic, consider the following:
 
 Channeling magic is dangerous. There is always a chance for something to go terribly wrong.
 
-## Magic Dice
+## Magic Dice (by Cal)
 
-A mage starts with 1d6. As they progress, they can "level up" and over time gain more dice. Each time a spell is attempted, the dice is rolled. 
+A mage starts with 1d6. As they progress, they can "level up" and over time gain more dice. Each time a spell is attempted, the dice is rolled. As with the [[MERIDIAN]] engine, several things can happen based on 
