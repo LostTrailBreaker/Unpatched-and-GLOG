@@ -16,7 +16,7 @@ tags:
 	- [[DEPRIVED]]
 	- [[DEPLETION]]
 	- [[VISUAL INVENTORY]]
-	- [[COMBAT AS WAR]]
+	- [[COMBAT AS WAR]] - specifically wounds and healing
 	- [[RUIN AND DECAY]]
 	- [[MALFEASANCE]]
 	- [[STRESS AND PANIC]]
