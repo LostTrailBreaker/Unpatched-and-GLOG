@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"86d74995290af39d","x":-540,"y":-480,"width":400,"height":400,"type":"file","file":"Rules (by ClockworkAlchemist).md"},
-		{"id":"f8127f4926ebe32e","x":-90,"y":-302,"width":250,"height":60,"type":"text","text":""}
+		{"id":"f8127f4926ebe32e","x":-90,"y":-302,"width":250,"height":60,"type":"text","text":""},
+		{"id":"86d74995290af39d","x":-540,"y":-472,"width":400,"height":400,"type":"file","file":"Rules (by ClockworkAlchemist).md"}
 	],
 	"edges":[
 		{"id":"35b752178653a61e","fromNode":"86d74995290af39d","fromSide":"right","toNode":"f8127f4926ebe32e","toSide":"left"}
