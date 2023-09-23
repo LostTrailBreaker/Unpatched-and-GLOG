@@ -12,3 +12,5 @@ Things are meant to be used. They will be worn down, beaten, broken during their
 When you use something, mark an X. At the third X, the thing is used up, broken, gone. That’s it. That’s all. Works great, right?
 
 Things can be repaired, too. Until it's completely broken, one can seek out services to fix a tool. Magical or otherwise advanced items cannot be easily fixed wtihout some special resource or request.
+
+# Cal's Modified Version of Depletion
