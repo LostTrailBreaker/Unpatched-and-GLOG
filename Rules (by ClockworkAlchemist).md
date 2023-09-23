@@ -57,7 +57,7 @@ To find out if the answer is more nuanced than just a plain *Yes* or *No*, also 
 *Yes* and *No* are equally liiekly if you use one die of each color. If circumstances are different, include an additional die in favor of the more likely outcome when you roll, but only keep the higher die of that color when you compare.
 
 ### What if I roll doubles?
-If the dice are equal, some presupposition behind the question is wrong! This means that you're taking soemthing for granted that makes it impossible to answer with "Yes" or "No." If it's obvious how your question could be assuming something, change it and ask something else. You can also use your favorite plot twist generator if you need to, but keep in mind that *the uestion itself was wrong;* you'll need to revise your assumption about the situation and the world, not just something new.
+If the dice are equal, some presupposition behind the question is wrong! This means that you're taking soemthing for granted that makes it impossible to answer with "Yes" or "No." If it's obvious how your question could be assuming something, change it and ask something else. You can also use your favorite plot twist generator if you need to, but keep in mind that *the question itself was wrong;* you'll need to revise your assumption about the situation and the world, not just something new.
 
 ## LORE: To Know a Thing... (Adapted from Rise Up Comus)
 Character knowledge follows similar rules to what characters can see. There are essentially two levels of knowledge.
