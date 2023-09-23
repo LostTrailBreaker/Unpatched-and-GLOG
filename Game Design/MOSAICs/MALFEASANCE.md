@@ -22,3 +22,6 @@ Channeling magic is dangerous. There is always a chance for something to go terr
 
 A mage starts with 1d6. As they progress, they can "level up" and over time gain more dice. Each time a spell is attempted, the dice is rolled. As with the [[MERIDIAN]] engine, several things can happen based on the value of the dice.
 
+- 6: you get what you want
+- 4-5: you get what you want, but something else happens as well
+- 
