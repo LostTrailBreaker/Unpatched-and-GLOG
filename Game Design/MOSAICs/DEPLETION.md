@@ -14,3 +14,5 @@ When you use something, mark an X. At the third X, the thing is used up, broken,
 Things can be repaired, too. Until it's completely broken, one can seek out services to fix a tool. Magical or otherwise advanced items cannot be easily fixed wtihout some special resource or request.
 
 # Cal's Modified Version of Depletion
+
+with items that you have a lot of (like arrows, throwing knives, that kind of stuff), roll every time you use it. 
