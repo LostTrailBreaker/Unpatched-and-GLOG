@@ -14,7 +14,7 @@ tags:
 - ## Homegrown MOSAICS
 	- [[CLASSLESS]]
 	- [[DEPRIVED]]
-	- [[DEPLETION]]
+	- [[DEPLETION]] - also use [[]]
 	- [[VISUAL INVENTORY]]
 	- [[COMBAT AS WAR]] - specifically wounds and healing
 	- [[RUIN AND DECAY]]
