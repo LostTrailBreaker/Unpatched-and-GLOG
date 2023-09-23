@@ -22,4 +22,4 @@ Channeling magic is dangerous. There is always a chance for something to go terr
 
 A mage starts with 1d6. As they progress, they can "level up" and over time gain more dice. Each time a spell is attempted, the dice is rolled. As with [Arnold K's system for GLOG wizards](http://goblinpunch.blogspot.ca/2016/09/the-glog-wizards.html), if you roll a 1-3 on the dice, you can reuse your spell again without taking a rest. If you roll a 4-6, the spell has been "used up" until you perform a long rest.
 
-The storyteller also uses the [[dice]]
+The storyteller also uses the [[CERTAINTY]]
