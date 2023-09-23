@@ -24,4 +24,4 @@ A mage starts with 1d6. As they progress, they can "level up" and over time gain
 
 - 6: you get what you want
 - 4-5: you get what you want, but something else happens as well
-- 
+- 2-3: 
