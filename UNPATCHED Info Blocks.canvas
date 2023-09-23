@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"86d74995290af39d","x":-540,"y":-472,"width":400,"height":400,"type":"file","file":"Rules (by ClockworkAlchemist).md"},
-		{"id":"d139a9be160a1325","x":-540,"y":-40,"width":400,"height":400,"type":"file","file":"GAME DESIGN/Engines/RECLUSE.md"},
-		{"id":"c3ffddedc8a37b76","x":-100,"y":-472,"width":400,"height":400,"type":"file","file":"GAME DESIGN/Engines/CERTAINTY.md"}
-	],
-	"edges":[]
-}
