@@ -17,3 +17,7 @@ When channeling magic, consider the following:
 - **NATURE.** What is the inherent tendency of the spell? Its inclinations?
 
 Channeling magic is dangerous. There is always a chance for something to go terribly wrong.
+
+## Magic Dice
+
+A mage starts with 1d6. As they progress, they can "level up" and over time gain more dice. Each time a spell is attempted, the dice is rolled. 
