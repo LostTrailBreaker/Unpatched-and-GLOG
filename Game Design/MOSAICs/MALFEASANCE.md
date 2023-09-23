@@ -24,4 +24,4 @@ A mage starts with 1d6. As they progress, they can "level up" and over time gain
 
 - 5-6: you get what you want
 - 3-4: you get what you want, but something else happens as well
-- 1-2: you don't get what you want. There are only consequences. 
+- 1-2: you don't get what you want. There are only consequences. Your spell backfires in some way
