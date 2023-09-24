@@ -1,7 +1,7 @@
 ---
 Date: 2023-09-23
 Title: 
-author: 
+author: cmagill
 aliases: 
 tags:
   - Resource
