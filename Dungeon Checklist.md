@@ -14,7 +14,7 @@ Sometimes I write dungeons.  Today I wrote a checklist of things to put in the 
 
   
 
-**How to Use This Checklist**
+### How to Use This Checklist
 
 Read it once before you write you dungeon.  Then read it again when you're done, to make sure you got everything.  
 
