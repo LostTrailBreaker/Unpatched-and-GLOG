@@ -60,7 +60,6 @@ Dungeons are designed to be beaten.  That's why we don't fill them with inescap
 
 BUT dungeons need to feel like they were designed to be unbeatable.  It's important to feel like this isn't just a bowling alley where the DM sets up the pins for the players to knock down.  You need to have deadly elements in your deadly dungeon for it to feel deadly.  
 
-  
 
 Just follow these two important rules.  Try to follow at least one
 
@@ -73,44 +72,25 @@ Horrible monsters that are avoidable give the players agency and allows them to 
   
 Sidenote: I think that nearly all combats should be escapable. Sometimes with a cost (dropped food, gold, maybe a dead PC or hireling). In my experience PCs will get themselves killed often enough even if the enemies never left the rooms they were in.
 
-  
-
 Also, putting "unbeatable" monsters in your dungeon also allows the dungeon to be self-scaling.  The level 1 party will just tip-toe past the dragon, while the level 6 party might consider fighting it so they steal the treasure it is sleeping on top of.  And just like that, a dungeon becomes appropriate for both level 1 parties AND level 6 parties.  (And this is another reason why I think OSR games have such a wide range of level-appropriateness--It's both easy and expected that players will flee from fights that they can't win).
 
-  
 ### Different Paths
-
-  
 
 Different paths allow different parties to experience the dungeon in different ways.  It's a randomizer, similar to what you'd get if you ordered the dungeon rooms according to a random number generator.  And it keeps you (the DM) from getting bored
 
-  
-
 Player agency.  Players can choose the path they're better suited for.  The party with 2 clerics can take the zombie-infested tunnel, and the party with air support can get themselves dropped into the courtyard.  It also allows dungeons to be a little bit self-adjusting, too.  Players who are more confident can challenge the front door, while lower level parties will creep around the outside.
-
-  
 
 It allows parties to walk away from rooms they don't like.  Part of the OSR philosophy (as I see it) is the ability to walk away from fights.  If a party doesn't want to fight a room with archer skeletons entombed in the walls (especially after two of them were blinded in the last room) they can retreat and find another way in.  It's an option they have.
 
-  
-
 The last reason to have multiple paths is to allow for dungeon mastery.  I don't mean DMing.  I mean that, as the players learn more about the dungeon, they become better at exploiting its geography.  They can lure the carrion crawler over the pit trap that they know is there.  They can retreat into a looped path, instead of retreating into unexplored rooms (always a dangerous tactic).
-
-  
 
 At the same time, don't throw in random paths just for the hell of it.  The more paths you put in, the less linearity there is in your dungeon.  And sometimes you want linearity, especially when it comes to teaching your players things, or giving clues.  Sometimes you want to show the players the eerily clean hallway before they bump into the gelatinous cube.  Maybe you want them to meet the zombies with hook hands before they meet the room of crawling, animated hands.
 
-  
-
 There's nothing wrong with a little linearity if you're putting it in there for a reason.  I still think that a heavily branched dungeon should be the default assumption, but linear sections of a dungeon are a venal sin, not a mortal one.
-
-  
 
  ### Someone to Talk To
 
 People forget this one, and yet it's the one I feel strongest about.  Strong enough for caps lock.  EVERY DUNGEON NEEDS SOMEONE TO TALK TO.  It's a roleplaying game.  NPCs are the cheapest and easiest way to add depth to your dungeon.  It's easy because everyone knows how to roleplay a generic goblin prisoner and has a pretty good idea of what information/services that goblin prisoner can provide.  And it's got depth because there are so many ways that a party can use a goblin prisoner.  There's almost no bloat--you don't need to invent new mechanics, and it takes almost no space to write "There is a goblin in a cage.  His name is Zerglum and he has been imprisoned by his fellows for setting rats free."
-
-  
 
 The problem is that a lot of dungeons are treasure vaults, tombs, and abandoned mines.  The only creatures you usually encounter in those places are undead, golems, oozes, and vermin with ambiguous food chains.  None of those are really known for being chatty.  So, here are some options:
 
