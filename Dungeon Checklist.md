@@ -12,8 +12,6 @@ Taken from the blog [Goblin Punch](https://goblinpunch.blogspot.com/2016/01/dung
 
 Sometimes I write dungeons.  Today I wrote a checklist of things to put in the dungeon.  The first couple items are pretty obvious, but it's still good to enumerate their usage.  
 
-  
-
 ### How to Use This Checklist
 
 Read it once before you write you dungeon.  Then read it again when you're done, to make sure you got everything.  
