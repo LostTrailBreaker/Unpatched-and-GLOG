@@ -78,7 +78,7 @@ Sidenote: I think that nearly all combats should be escapable. Sometimes with a 
 Also, putting "unbeatable" monsters in your dungeon also allows the dungeon to be self-scaling.  The level 1 party will just tip-toe past the dragon, while the level 6 party might consider fighting it so they steal the treasure it is sleeping on top of.  And just like that, a dungeon becomes appropriate for both level 1 parties AND level 6 parties.  (And this is another reason why I think OSR games have such a wide range of level-appropriateness--It's both easy and expected that players will flee from fights that they can't win).
 
   
-**4. Different Paths**
+- [ ] **Different Paths**
 
   
 
