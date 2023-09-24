@@ -1,6 +1,6 @@
 ---
 Date: 2023-09-23
-Title: 
+Title: Dungeon Checklist
 author: cmagill
 aliases: 
 tags:
