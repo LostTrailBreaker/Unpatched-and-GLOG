@@ -163,7 +163,7 @@ More bonus points if its something that will probably hurt the players at first,
 One last perk: it gives level 1 characters a chance to be as useful as level 10 characters.  Anyone can stick an arm into a hole in the wall, and anyone can figure out what it does.  Weird shit often poses threats and rewards that are level-agnostic.  
   
 
-- [ ] **Something the Players Probably Won't Find**  
+### **Something the Players Probably Won't Find**  
   
 This one might be contentious.  Why put stuff in your dungeon that your players won't find?  
   
