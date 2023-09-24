@@ -6,7 +6,6 @@ aliases:
 tags:
   - Resource
 ---
-
 Taken from the blog [Goblin Punch](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)
 
 ### Dungeon Checklist
