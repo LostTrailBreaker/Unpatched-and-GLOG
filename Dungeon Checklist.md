@@ -134,7 +134,6 @@ Aside from something that will probably kick the party's ass, I think this might
   
 These are the unexplainable, the weird, and the unknown.  And I don't mean unknown like an unindentified potion is unknown.  I mean something that introduces a new wrinkle into the game.  
   
-
 - A room with two doors of different sizes.  Anything that is put into the small door emerges from the large door at twice the size, and vice versa.  Anything that goes through the doors twice in the same direction (double enlarged or double shrunk) has terrible consequences.
 - A pedestal.  If anything is placed on top of it, it turns into its opposite.  (Okay, the opposite of a sword is an axe, but what is the opposite of a banana?)
 - A metal skeleton.  If a skull is placed atop it, a _speak with dead_ spell is cast on it.
@@ -145,7 +144,6 @@ These are the unexplainable, the weird, and the unknown.  And I don't mean unkn
 - A boat golem that flees from loud noises.  You can direct it by standing at the back of it and shouting.
 - Two holes in the wall.  If two limbs are put in the holes, they are swapped.  If only one limb is put in the hole, it is severed.  Can be used to graft new limbs onto amputees.
 
-  
 There's some overlap here with magic items.  There's also some overlap with non-magical stuff, too.  There's also some overlap with combat, because some combats can be puzzly, or can rely on new rules/victory conditions.  
   
 Combat, for experienced players, for the most part, is a solved problem.  Weird shit is important because they give the players an unsolved problem.  
