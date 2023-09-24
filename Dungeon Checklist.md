@@ -128,7 +128,7 @@ The problem is that a lot of dungeons are treasure vaults, tombs, and abandoned 
 - Pterodactyl-riding barbarians who are looting the place
 - Time-displaced wizard, caught in a paradox while exploring the place.  Resets every 3 minutes.
 
-**6. Something to Experiment With**  
+- [ ] **Something to Experiment With**  
   
 Aside from something that will probably kick the party's ass, I think this might be the most OSR-ish.  
   
