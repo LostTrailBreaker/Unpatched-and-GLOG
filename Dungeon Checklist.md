@@ -38,7 +38,7 @@ Two points.  First, remember that treasure doesn't need to be treasure.  It ca
 Second, treasure tells a story, too.  Cover your treasure in religious symbols, annoint it in trollblood.  Don't let your coins be coins!
 
   
-**2. Something to be Killed**
+- [] **Something to be Killed**
 
 This is pretty obvious.  Of course there are threatening things in the dungeon.  There has to be some challenge otherwise it isn't a dungeon.  The simplest way to do that is with things that are trying to kill you.  (Yes, you can have monsterless dungeons based on traps.  Those are cool, but that's why this checklist is written in pencil, not in stone.)  There are many ways to make combat with even [basic monsters](http://goblinpunch.blogspot.com/2015/07/hd-1-ac-leather-sword-1d6.html) [more](http://goblinpunch.blogspot.com/2014/06/boss-mechanics-from-world-of-warcraft.html) [interesting](http://goblinpunch.blogspot.com/2015/06/4-legs-of-table-mimic-where-interesting.html).
 
