@@ -18,13 +18,9 @@ Sometimes I write dungeons.  Today I wrote a checklist of things to put in the 
 
 Read it once before you write you dungeon.  Then read it again when you're done, to make sure you got everything.  
 
-  
  ### Something to Steal
 
-  
 Treasure gives players a reason to go into the dungeon in the first place.  On a metagame level, treasure is money, money is XP, and XP is tied to the idea of character advancement.  It's the prime mover of the system.
-
-  
 
 Two points.  First, remember that treasure doesn't need to be treasure.  It can be:
 
@@ -37,29 +33,19 @@ Two points.  First, remember that treasure doesn't need to be treasure.  It ca
 
 Second, treasure tells a story, too.  Cover your treasure in religious symbols, annoint it in trollblood.  Don't let your coins be coins!
 
-  
 ### Something to be Killed
 
 This is pretty obvious.  Of course there are threatening things in the dungeon.  There has to be some challenge otherwise it isn't a dungeon.  The simplest way to do that is with things that are trying to kill you.  (Yes, you can have monsterless dungeons based on traps.  Those are cool, but that's why this checklist is written in pencil, not in stone.)  There are many ways to make combat with even [basic monsters](http://goblinpunch.blogspot.com/2015/07/hd-1-ac-leather-sword-1d6.html) [more](http://goblinpunch.blogspot.com/2014/06/boss-mechanics-from-world-of-warcraft.html) [interesting](http://goblinpunch.blogspot.com/2015/06/4-legs-of-table-mimic-where-interesting.html).
 
-  
-
 Also remember that dungeons tell their story through nouns.  The history of a dungeon is usually relayed through monster choices (why use orcs when you can use degenerate cannibal versions of the original dwarven inhabitants?) and descriptions of those creatures (a barnacle-covered zombie, an iron golem charred by dragonfire, the elven armor scraps that the goblins are wearing, the elven wand-rifle that one of the goblins has for some reason).
-
-  
 
 Examples: 2d6 orcs, 3d6 [mudmen](http://goblinpunch.blogspot.com/2014/09/some-monsters-or-whatever.html).
 
-  
 ### Something to Kill You
 
-  
 Dungeons are designed to be beaten.  That's why we don't fill them with inescapable obstacles (rocks fall, everyone dies) or impenetrable barriers (sorry, the whole dungeon is wrapped in an adamantine dome, you can't get in).
 
-  
-
 BUT dungeons need to feel like they were designed to be unbeatable.  It's important to feel like this isn't just a bowling alley where the DM sets up the pins for the players to knock down.  You need to have deadly elements in your deadly dungeon for it to feel deadly.  
-
 
 Just follow these two important rules.  Try to follow at least one
 
