@@ -8,7 +8,6 @@ tags:
 ---
 Taken from the blog [Goblin Punch](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)
 
-## Dungeon Checklist
 
 Sometimes I write dungeons.  Today I wrote a checklist of things to put in the dungeon.  The first couple items are pretty obvious, but it's still good to enumerate their usage.  
 
