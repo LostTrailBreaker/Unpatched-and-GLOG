@@ -51,7 +51,7 @@ Also remember that dungeons tell their story through nouns.  The history of a d
 Examples: 2d6 orcs, 3d6 [mudmen](http://goblinpunch.blogspot.com/2014/09/some-monsters-or-whatever.html).
 
   
-**Something to Kill You**
+### Something to Kill You
 
   
 Dungeons are designed to be beaten.  That's why we don't fill them with inescapable obstacles (rocks fall, everyone dies) or impenetrable barriers (sorry, the whole dungeon is wrapped in an adamantine dome, you can't get in).
