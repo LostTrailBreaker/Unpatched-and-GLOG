@@ -78,7 +78,7 @@ Sidenote: I think that nearly all combats should be escapable. Sometimes with a 
 Also, putting "unbeatable" monsters in your dungeon also allows the dungeon to be self-scaling.  The level 1 party will just tip-toe past the dragon, while the level 6 party might consider fighting it so they steal the treasure it is sleeping on top of.  And just like that, a dungeon becomes appropriate for both level 1 parties AND level 6 parties.  (And this is another reason why I think OSR games have such a wide range of level-appropriateness--It's both easy and expected that players will flee from fights that they can't win).
 
   
-- [ ] **Different Paths**
+### Different Paths
 
   
 
@@ -106,7 +106,7 @@ There's nothing wrong with a little linearity if you're putting it in there for 
 
   
 
-- [ ] **Someone to Talk To**
+ **Someone to Talk To**
 
 People forget this one, and yet it's the one I feel strongest about.  Strong enough for caps lock.  EVERY DUNGEON NEEDS SOMEONE TO TALK TO.  It's a roleplaying game.  NPCs are the cheapest and easiest way to add depth to your dungeon.  It's easy because everyone knows how to roleplay a generic goblin prisoner and has a pretty good idea of what information/services that goblin prisoner can provide.  And it's got depth because there are so many ways that a party can use a goblin prisoner.  There's almost no bloat--you don't need to invent new mechanics, and it takes almost no space to write "There is a goblin in a cage.  His name is Zerglum and he has been imprisoned by his fellows for setting rats free."
 
