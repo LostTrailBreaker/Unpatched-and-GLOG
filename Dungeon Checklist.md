@@ -18,7 +18,7 @@ Sometimes I write dungeons.  Today I wrote a checklist of things to put in the 
 
 Read it once before you write you dungeon.  Then read it again when you're done, to make sure you got everything.  
 
- ### Something to Steal
+### Something to Steal
 
 Treasure gives players a reason to go into the dungeon in the first place.  On a metagame level, treasure is money, money is XP, and XP is tied to the idea of character advancement.  It's the prime mover of the system.
 
